@@ -9,3 +9,5 @@ new*.*
 akamai.*
 test.c
 build
+configs
+bin
